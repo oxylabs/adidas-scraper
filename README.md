@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Adidas Scraper, you can conveniently pull public data from any Adidas web page. Gather the necessary product details, such as sports apparel pricing, customer feedback, or athletic footwear descriptions, to examine the marketplace and maintain a competitive edge. If you need help, reach out to our support team through live chat or send us an email at hello@oxylabs.io.
+With our Adidas Scraper, you can conveniently pull public data from any Adidas web page. Gather the necessary product details, such as sports apparel pricing, customer feedback, or athletic footwear descriptions, to examine the marketplace and maintain a competitive edge. If you need help, reach out to our support team through live chat or send us an email at support@oxylabs.io.
